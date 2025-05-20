@@ -7,7 +7,7 @@ This project presents a comprehensive sales analytics solution for the fictional
 ## 📁 Project Overview
 
 - **Domain**: Sales & Supply Chain
-- **Tools Used**: Power BI, Excel
+- **Tools Used**: Power BI, Excel,SQL
 - **Dataset**: Northwind Traders database (includes orders, products, customers, suppliers, employees, and more)
 - **Goal**: Analyze sales trends, customer behavior, product performance, and regional metrics to derive actionable insights.
 
