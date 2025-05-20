@@ -43,29 +43,32 @@ This project presents a comprehensive sales analytics solution for the fictional
 ![image](https://github.com/user-attachments/assets/c002a35b-85cc-4bf4-a240-67ba4b74db59)
 
 Project Conclusions (Power BI + EDA)
-Customer Distribution & Behavior
-EDA revealed that most customers are located in North America and Western Europe, with the USA and Germany leading in customer count and sales.
-Power BI visualizations showed that repeat customers contribute over 70% of total revenue, indicating strong customer retention.
-Acquisition trends show steady customer growth with occasional spikes, especially around certain time periods (e.g., holiday seasons).
-Sales Performance Insights
-Sales heatmaps and trend lines in Power BI identified Q3 as the peak sales period, likely driven by seasonality.
-EDA highlighted a positive correlation between order frequency and total sales per customer segment.
-Sales performance dashboards revealed that top 3 sales representatives contribute to over 40% of company sales.
-Employee and Regional Analysis
-EDA showed that employees handling fewer orders still maintain high revenue per order, suggesting a potential for mentoring or best-practice sharing.
-Regional breakdowns in Power BI maps highlighted underperforming areas that could benefit from focused sales efforts or promotions.
-Product and Inventory Trends
-EDA helped detect low-performing products with high stock levels, indicating excess inventory and potential deadstock.
-Power BI inventory dashboards showed that some high-demand products frequently go out of stock, affecting sales opportunities.
-Product category analysis revealed that "Beverages" and "Condiments" consistently rank highest in revenue generation.
-Supplier and Shipping Insights
-Supplier performance metrics in Power BI showed that a few suppliers consistently deliver on time, while others have higher delays and variability.
-EDA uncovered patterns of late shipments affecting high-value orders, suggesting the need for better supplier contracts or backups.
-Strategic Recommendations
-Use targeted marketing to convert one-time customers into repeat buyers.
-Optimize inventory using predictive analytics to reduce overstock and prevent stockouts.
-Focus on underperforming regions and employees with training, incentives, or support to improve overall performance.
-Strengthen relationships with reliable suppliers and reevaluate contracts with those causing frequent delays.
+•	Customer Distribution & Behavior
+o	EDA revealed that most customers are located in North America and Western Europe, with the USA and Germany leading in customer count and sales.
+o	Power BI visualizations showed that repeat customers contribute over 70% of total revenue, indicating strong customer retention.
+o	Acquisition trends show steady customer growth with occasional spikes, especially around certain time periods (e.g., holiday seasons).
+•	Sales Performance Insights
+o	Sales heatmaps and trend lines in Power BI identified Q3 as the peak sales period, likely driven by seasonality.
+o	EDA highlighted a positive correlation between order frequency and total sales per customer segment.
+o	Sales performance dashboards revealed that top 3 sales representatives contribute to over 40% of company sales.
+•	Employee and Regional Analysis
+o	EDA showed that employees handling fewer orders still maintain high revenue per order, suggesting a potential for mentoring or best-practice sharing.
+o	Regional breakdowns in Power BI maps highlighted underperforming areas that could benefit from focused sales efforts or promotions.
+•	Product and Inventory Trends
+o	EDA helped detect low-performing products with high stock levels, indicating excess inventory and potential deadstock.
+o	Power BI inventory dashboards showed that some high-demand products frequently go out of stock, affecting sales opportunities.
+o	Product category analysis revealed that "Beverages" and "Condiments" consistently rank highest in revenue generation.
+•	Supplier and Shipping Insights
+o	Supplier performance metrics in Power BI showed that a few suppliers consistently deliver on time, while others have higher delays and variability.
+o	EDA uncovered patterns of late shipments affecting high-value orders, suggesting the need for better supplier contracts or backups.
+•	Strategic Recommendations
+o	Use targeted marketing to convert one-time customers into repeat buyers.
+o	Optimize inventory using predictive analytics to reduce overstock and prevent stockouts.
+o	Focus on underperforming regions and employees with training, incentives, or support to improve overall performance.
+o	Strengthen relationships with reliable suppliers and reevaluate contracts with those causing frequent delays.
+
+
+
 
 
 
