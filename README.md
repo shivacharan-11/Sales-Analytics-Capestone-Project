@@ -30,7 +30,7 @@ This project presents a comprehensive sales analytics solution for the fictional
 |-------------|---------------------------|
 | **Power BI** | Interactive dashboard and data visualization |
 | **Excel**    | Data cleaning & preprocessing |
-| **SQL**      | (Optional) Data querying (if used) |
+| **SQL**      |  Data querying  |
 
 ---
 
